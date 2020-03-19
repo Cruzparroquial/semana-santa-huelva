@@ -1,0 +1,37 @@
+body{
+    background-size:cover;
+    background: linear-gradient(
+        rgba(0, 0, 0, 0.9), 
+        rgba(0, 0, 0, 0.9)
+        ),url('../figuras/fondo_consejo_hermandades.jpg');
+}
+h1{
+    text-align: center;
+    color:white;
+}
+table{
+    margin: 0 auto;
+    text-align:center;
+    background-color:rgba(185, 193, 206, 0.7);
+}
+figure{
+    text-align: center;
+    color: white;
+}
+.bandas_inicio, .banda{
+    width: 175px;
+    height: 175px;
+}
+.bandas_descripcion{
+    width: 75px;
+    height: 75px;
+}
+figcaption.descripcion{
+    font-size: 12px;
+}
+p {
+    color:white; 
+    font-size:27px;
+    font-family: 'Alex Brush';
+}
+
